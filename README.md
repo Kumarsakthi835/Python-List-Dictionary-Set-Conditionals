@@ -234,4 +234,11 @@ The assignment was completed using Google Colab.
 
 ---
 
-## 📁 Project Structure
+
+---
+
+## 🎓 Author
+
+**Kumar S**
+- Data Analytics (DA) – Module 4
+- Python Assignment 2 – List, Dictionary, Set & Conditional Statements
