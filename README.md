@@ -110,30 +110,39 @@ The assignment was completed using Google Colab.
 
 
 ### Task 2e – Extend
+<img width="323" height="91" alt="image" src="https://github.com/user-attachments/assets/c8f52c3d-c9d5-41eb-99a1-82789c255340" />
 
 
 ### Task 2f – Sort Descending
+<img width="369" height="88" alt="image" src="https://github.com/user-attachments/assets/94f5740f-73bc-4857-9c2c-046c0fd691f0" />
 
 
 ### Task 2g – Max Min Sum
 
+<img width="299" height="123" alt="image" src="https://github.com/user-attachments/assets/ad7e0105-c4dc-4a96-bba1-9c77f8a3ff44" />
 
 ### Task 3a – First Element
+<img width="275" height="69" alt="image" src="https://github.com/user-attachments/assets/1c31307d-211c-4cfc-baae-6398e1f3ebcb" />
 
 
 ### Task 3b – Last Element
+<img width="275" height="69" alt="image" src="https://github.com/user-attachments/assets/92d44317-21d3-4342-9276-53a1fc5fc84f" />
 
 
 ### Task 3c – Slicing
+<img width="278" height="72" alt="image" src="https://github.com/user-attachments/assets/74cddb18-7efa-4a66-9112-214903b5aeab" />
 
 
 ### Task 3d – Reverse
+<img width="368" height="74" alt="image" src="https://github.com/user-attachments/assets/a1a6bf68-5a10-4c11-bc57-d49c63006aaf" />
 
 
 ### Task 4a – Dictionary Created
+<img width="496" height="168" alt="image" src="https://github.com/user-attachments/assets/fd2c1a3b-1bfd-4b42-b8b6-42e6683d7d88" />
 
 
 ### Task 4b – Access Mark
+<img width="334" height="71" alt="image" src="https://github.com/user-attachments/assets/da63511b-e011-483f-b48a-97a445ed68ea" />
 
 
 ### Task 4c – Add Janani
