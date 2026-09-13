@@ -240,5 +240,5 @@ The assignment was completed using Google Colab.
 ## 🎓 Author
 
 **Kumar S**
-- Data Analytics (DA) – Module 4
-- Python Assignment 2 – List, Dictionary, Set & Conditional Statements
+- Data Analyst
+
