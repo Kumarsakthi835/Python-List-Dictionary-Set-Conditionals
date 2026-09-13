@@ -126,7 +126,7 @@ The assignment was completed using Google Colab.
 
 
 ### Task 3b – Last Element
-<img width="275" height="69" alt="image" src="https://github.com/user-attachments/assets/92d44317-21d3-4342-9276-53a1fc5fc84f" />
+<img width="272" height="75" alt="image" src="https://github.com/user-attachments/assets/7fa313b5-486f-4e0c-9643-6dccc63f3086" />
 
 
 ### Task 3c – Slicing
@@ -165,19 +165,25 @@ The assignment was completed using Google Colab.
 
 
 ### Task 5c – Set1 Set2 Created
+<img width="385" height="148" alt="image" src="https://github.com/user-attachments/assets/a6753766-9841-493a-9b94-8b1ff88929ad" />
 
 
 ### Task 5d – Union Intersection
+<img width="299" height="155" alt="image" src="https://github.com/user-attachments/assets/9e06fbd2-699a-47e1-8f42-742cfce280db" />
 
 
 ### Task 6 – Above Average
+<img width="684" height="206" alt="image" src="https://github.com/user-attachments/assets/a54cda17-ea84-403a-8b84-cac90aff4b70" />
+
 
 
 ### Task 6 – Average
+<img width="784" height="198" alt="image" src="https://github.com/user-attachments/assets/b412fa63-3191-4c79-a0e0-1bc692699db7" />
 
 
 ### Task 6 – Below Average
 
+<img width="701" height="190" alt="image" src="https://github.com/user-attachments/assets/6222dee0-fea4-43e8-af30-16ea208ff3ad" />
 
 
 
