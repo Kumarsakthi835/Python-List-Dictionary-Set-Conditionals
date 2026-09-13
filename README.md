@@ -146,18 +146,22 @@ The assignment was completed using Google Colab.
 
 
 ### Task 4c – Add Janani
-
+<img width="621" height="88" alt="image" src="https://github.com/user-attachments/assets/81651066-dabd-4553-ad0f-c3ad49e23d2b" />
 
 ### Task 4d – Update Mark
+<img width="582" height="92" alt="image" src="https://github.com/user-attachments/assets/fe8de55a-fc1f-45f6-a8e2-2eef82b4c441" />
 
 
 ### Task 4e – Keys Values Items
+<img width="669" height="124" alt="image" src="https://github.com/user-attachments/assets/53f1cbb2-2fa5-4744-a470-eaaf6467e9ef" />
 
 
 ### Task 5a – Set Created
+<img width="302" height="98" alt="image" src="https://github.com/user-attachments/assets/998ee0e8-2957-4fc3-b9eb-249ecbf68ed9" />
 
 
 ### Task 5b – Set Index Error
+<img width="502" height="170" alt="image" src="https://github.com/user-attachments/assets/7e50473d-a90a-46a8-9d79-6e168d33f082" />
 
 
 ### Task 5c – Set1 Set2 Created
