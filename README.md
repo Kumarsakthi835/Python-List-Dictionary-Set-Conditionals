@@ -85,22 +85,28 @@ The assignment was completed using Google Colab.
 
 
 ### Task 2a – Append
+<img width="440" height="84" alt="image" src="https://github.com/user-attachments/assets/20757f7a-e96a-4cf4-a8d0-eaf7dded97f6" />
+
 
 
 
 
 ### Task 2b – Insert
 
-![Uploading image.png…]()
+<img width="521" height="89" alt="image" src="https://github.com/user-attachments/assets/9e8ce51e-a1a4-4dcf-ad64-4ab94325c1a8" />
+
 
 
 ### Task 2c – Remove
-![Uploading image.png…]()
+
+<img width="392" height="113" alt="image" src="https://github.com/user-attachments/assets/e43d27d9-494b-43b3-93b6-0f384e042e60" />
+
 
 
 
 ### Task 2d – Pop
 
+<img width="320" height="119" alt="image" src="https://github.com/user-attachments/assets/ee05cfb9-3df4-49e7-99b1-cd95be2da52e" />
 
 
 ### Task 2e – Extend
